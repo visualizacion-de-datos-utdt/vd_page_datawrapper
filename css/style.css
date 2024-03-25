@@ -1,0 +1,12 @@
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+}
+.text {
+  margin: 25px auto;
+  max-width: 600px;
+}
+.chart {
+  margin: 25px auto;
+  max-width: 600px;
+}
